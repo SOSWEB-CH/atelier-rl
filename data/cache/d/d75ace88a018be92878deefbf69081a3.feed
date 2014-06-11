@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://www.atelier-rl.ch/lib/styles/feed.css" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://www.atelier-rl.ch/feed.php">
+        <title>Atelier R.L. wiki</title>
+        <description></description>
+        <link>http://www.atelier-rl.ch/</link>
+        <image rdf:resource="http://www.atelier-rl.ch/lib/images/favicon.ico" />
+       <dc:date>2012-02-19T10:01:23+01:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://www.atelier-rl.ch/doku.php?id=wiki:dokuwiki&amp;amp;rev=1308214985"/>
+                <rdf:li rdf:resource="http://www.atelier-rl.ch/doku.php?id=wiki:syntax&amp;amp;rev=1308214986"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://www.atelier-rl.ch/lib/images/favicon.ico">
+        <title>Atelier R.L.</title>
+        <link>http://www.atelier-rl.ch/</link>
+        <url>http://www.atelier-rl.ch/lib/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://www.atelier-rl.ch/doku.php?id=wiki:dokuwiki&amp;amp;rev=1308214985">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-06-16T11:03:05+01:00</dc:date>
+        <title>wiki:dokuwiki</title>
+        <link>http://www.atelier-rl.ch/doku.php?id=wiki:dokuwiki&amp;amp;rev=1308214985</link>
+        <description>[Array] DokuWiki is a standards compliant, simple to use wp&gt;Wiki, mainly aimed at creating documentation of any kind. It is targeted at developer teams, workgroups and small companies. It has a simple but powerful syntax which makes sure the datafiles remain readable outside the Wiki and eases the creation of structured texts. All data is stored in plain text files -- no database is required.</description>
+    </item>
+    <item rdf:about="http://www.atelier-rl.ch/doku.php?id=wiki:syntax&amp;amp;rev=1308214986">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-06-16T11:03:06+01:00</dc:date>
+        <title>wiki:syntax</title>
+        <link>http://www.atelier-rl.ch/doku.php?id=wiki:syntax&amp;amp;rev=1308214986</link>
+        <description>DokuWiki supports some simple markup language, which tries to make the datafiles to be as readable as possible. This page contains all possible syntax you may use when editing the pages. Simply have a look at the source of this page by pressing the Edit this page button at the top or bottom of the page. If you want to try something, just use the playground page. The simpler markup is easily accessible via quickbuttons, too.</description>
+    </item>
+</rdf:RDF>

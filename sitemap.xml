@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://atelier-rl.ch/doku.php</loc>
+</url>
+<url>
+  <loc>http://atelier-rl.ch/doku.php?id=</loc>
+</url>
+<url>
+  <loc>http://atelier-rl.ch/doku.php?id=www:accueil</loc>
+</url>
+<url>
+  <loc>http://atelier-rl.ch/doku.php?id=www:peinture</loc>
+</url>
+<url>
+  <loc>http://atelier-rl.ch/doku.php?id=www:peinture:galerie</loc>
+</url>
+<url>
+  <loc>http://atelier-rl.ch/doku.php?id=www:expositions</loc>
+</url>
+<url>
+  <loc>http://atelier-rl.ch/doku.php?id=www:ebenisterie</loc>
+</url>
+<url>
+  <loc>http://atelier-rl.ch/doku.php?id=www:ebenisterie:galerie</loc>
+</url>
+<url>
+  <loc>http://atelier-rl.ch/doku.php?id=www:contact</loc>
+</url>
+</urlset>

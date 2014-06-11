@@ -1,0 +1,11 @@
+~~META:subject = Atelier RL - Rue de l'Eglise 4 - CH-1950 Sion, Mme Brigitte Raboud, peintre et M. Patrick Leibundgut, ébéniste - Exposition de tableaux et de meubles contemporains fabriqués à la pièce sur commande
+&keywords = ébéniste, ebenisterie, peintre, artisan, artiste peintre, peinture sur meubles, galerie d'art, meubles sur mesures, restauration meubles, décoration intérieur, bois, cerisier, noyer, chêne, tableaux, pastel, meubles peints, mobilier, ameublement, meubles anciens, meubles style
+&creator     = sos-web.ch, 3960 Sierre, +41 21 550 0034
+&copyright = 2007 - tous droits réservés, Mme Brigitte Raboud et M. Patrick Leibundgut
+~~
+
+~~NOCACHE~~
+
+Pastels et acryliques
+
+{{gallery>:www:peinture:new1}}

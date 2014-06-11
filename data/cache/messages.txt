@@ -1,0 +1,62 @@
+New release candidate available: 2011-05-08 "Rincewind RC2".
+          <a href="http://www.splitbrain.org/go/dokuwiki">upgrade now!</a> [32] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
+New release candidate available: 2011-04-22 "Rincewind RC1".
+          <a href="http://www.splitbrain.org/go/dokuwiki">upgrade now!</a> [31] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
+Security fix for privilege escalation bugs. More info 
+	  <a href="http://bugs.dokuwiki.org/index.php?do=details&amp;task_id=2136">here</a>,
+          <a href="http://www.splitbrain.org/go/dokuwiki">fixed release</a> available. [30] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
+New release available: 2010-11-07 "Anteater".
+          <a href="http://www.splitbrain.org/go/dokuwiki">upgrade now!</a> [29] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
+New release candidate available: 2010-10-27 "Busy Wednesday".
+          <a href="http://www.splitbrain.org/go/dokuwiki">upgrade now!</a> [28] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
+New release candidate available: 2010-10-07 "Lazy Sunday".
+          <a href="http://www.splitbrain.org/go/dokuwiki">upgrade now!</a> [27] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
+Security alert. Cross Site Request Forgery. More info 
+	  <a href="http://bugs.splitbrain.org/index.php?do=details&amp;task_id=1853">here</a>,
+          <a href="http://www.splitbrain.org/go/dokuwiki">fixed release</a> available. [25] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
+Security alert. Information Leakage and Privilege Escalation. More info 
+	  <a href="http://bugs.splitbrain.org/index.php?do=details&amp;task_id=1847">here</a>,
+          <a href="http://www.splitbrain.org/go/dokuwiki">fixed release</a> available. [24] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
+New release available: 2009-12-25 "Lemming".
+          <a href="http://www.splitbrain.org/go/dokuwiki">upgrade now!</a> [23] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
+New release candidate available: 2009-12-02 "Mulled Wine".
+          <a href="http://www.splitbrain.org/go/dokuwiki">upgrade now!</a> [22] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
+Security alert. Local file inclusion bug. More info 
+	  <a href="http://bugs.splitbrain.org/index.php?do=details&amp;task_id=1700">here</a>,
+          <a href="http://www.splitbrain.org/go/dokuwiki">fixed release</a> available. [18] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
+New release available: 2009-02-14.
+          <a href="http://www.splitbrain.org/go/dokuwiki">upgrade now!</a> [17] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
+New release candidate available: 2009-01-30 (RC2).
+          <a href="http://www.splitbrain.org/go/dokuwiki">upgrade now!</a> [16] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
+New release available: 2008-05-05.
+          <a href="http://www.splitbrain.org/go/dokuwiki">upgrade now!</a> [14] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
+New release candidate available: 2008-04-11.
+          <a href="http://www.splitbrain.org/go/dokuwiki">upgrade now!</a> [12] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
+New release candidate available: 2008-03-31.
+          <a href="http://www.splitbrain.org/go/dokuwiki">upgrade now!</a> [11] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
+An XSS vulnerability was discovered, read the
+           <a href="http://bugs.splitbrain.org/index.php?do=details&task_id=1195">bug report</a>
+           for manual fixing or upgrading [10] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
+New release available: 2007-06-26.
+          <a href="http://www.splitbrain.org/go/dokuwiki">upgrade now!</a> [9] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%
+New release candidate available: 2007-05-24.
+          <a href="http://www.splitbrain.org/go/dokuwiki">upgrade now!</a> [8] <a href="http://www.dokuwiki.org/update_check">(what's this?)</a>
+%

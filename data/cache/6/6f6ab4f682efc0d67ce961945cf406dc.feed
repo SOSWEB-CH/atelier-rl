@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://www.atelier-rl.ch/lib/styles/feed.css" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://www.atelier-rl.ch/feed.php">
+        <title>Atelier R.L. www:ebenisterie</title>
+        <description></description>
+        <link>http://www.atelier-rl.ch/</link>
+        <image rdf:resource="http://www.atelier-rl.ch/lib/images/favicon.ico" />
+       <dc:date>2012-01-26T10:46:08+01:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://www.atelier-rl.ch/doku.php?id=www:ebenisterie:galerie&amp;amp;rev=1308214995"/>
+                <rdf:li rdf:resource="http://www.atelier-rl.ch/doku.php?id=www:ebenisterie:meuble_peint&amp;amp;rev=1308214998"/>
+                <rdf:li rdf:resource="http://www.atelier-rl.ch/doku.php?id=www:ebenisterie:restauration&amp;amp;rev=1308215001"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://www.atelier-rl.ch/lib/images/favicon.ico">
+        <title>Atelier R.L.</title>
+        <link>http://www.atelier-rl.ch/</link>
+        <url>http://www.atelier-rl.ch/lib/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://www.atelier-rl.ch/doku.php?id=www:ebenisterie:galerie&amp;amp;rev=1308214995">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-06-16T11:03:15+01:00</dc:date>
+        <title>www:ebenisterie:galerie</title>
+        <link>http://www.atelier-rl.ch/doku.php?id=www:ebenisterie:galerie&amp;amp;rev=1308214995</link>
+        <description>Sélection de meubles créés par M. Patrick Leibundgut.
+
+Tous les meubles sont fabriqués sur mesure et il s’agit de pièce unique.</description>
+    </item>
+    <item rdf:about="http://www.atelier-rl.ch/doku.php?id=www:ebenisterie:meuble_peint&amp;amp;rev=1308214998">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-06-16T11:03:18+01:00</dc:date>
+        <title>www:ebenisterie:meuble_peint</title>
+        <link>http://www.atelier-rl.ch/doku.php?id=www:ebenisterie:meuble_peint&amp;amp;rev=1308214998</link>
+        <description>Sélection de meubles restaurés ou copie de meubles anciens.
+
+ 
+
+	*  peintures
+	*  meubles sur mesures</description>
+    </item>
+    <item rdf:about="http://www.atelier-rl.ch/doku.php?id=www:ebenisterie:restauration&amp;amp;rev=1308215001">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-06-16T11:03:21+01:00</dc:date>
+        <title>www:ebenisterie:restauration</title>
+        <link>http://www.atelier-rl.ch/doku.php?id=www:ebenisterie:restauration&amp;amp;rev=1308215001</link>
+        <description>Sélection de meubles restaurés ou copie de meubles anciens.
+
+ 
+
+meubles sur mesure</description>
+    </item>
+</rdf:RDF>

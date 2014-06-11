@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://www.atelier-rl.ch/lib/styles/feed.css" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://www.atelier-rl.ch/feed.php">
+        <title>Atelier R.L. www</title>
+        <description></description>
+        <link>http://www.atelier-rl.ch/</link>
+        <image rdf:resource="http://www.atelier-rl.ch/lib/images/favicon.ico" />
+       <dc:date>2012-01-16T15:06:15+01:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://www.atelier-rl.ch/doku.php?id=www:accueil&amp;amp;rev=1308214988"/>
+                <rdf:li rdf:resource="http://www.atelier-rl.ch/doku.php?id=www:contact&amp;amp;rev=1308214991"/>
+                <rdf:li rdf:resource="http://www.atelier-rl.ch/doku.php?id=www:ebenisterie&amp;amp;rev=1308215005"/>
+                <rdf:li rdf:resource="http://www.atelier-rl.ch/doku.php?id=www:expositions&amp;amp;rev=1308215008"/>
+                <rdf:li rdf:resource="http://www.atelier-rl.ch/doku.php?id=www:meuble_peint&amp;amp;rev=1308215012"/>
+                <rdf:li rdf:resource="http://www.atelier-rl.ch/doku.php?id=www:peinture&amp;amp;rev=1308215028"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://www.atelier-rl.ch/lib/images/favicon.ico">
+        <title>Atelier R.L.</title>
+        <link>http://www.atelier-rl.ch/</link>
+        <url>http://www.atelier-rl.ch/lib/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://www.atelier-rl.ch/doku.php?id=www:accueil&amp;amp;rev=1308214988">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-06-16T11:03:08+01:00</dc:date>
+        <title>www:accueil</title>
+        <link>http://www.atelier-rl.ch/doku.php?id=www:accueil&amp;amp;rev=1308214988</link>
+        <description>BRIGITTE RABOUD-Leibundgut 
+ artiste-peintre 
+ Pastel sec 
+ Acryl     PATRICK LEIBUNDGUT 
+ ébéniste 
+ création - fabrication 
+ meubles contemporains 
+ restauration meubles anciens  [Vieille ville de Sion - pastel par Brigitte]  . . .   [Pièce unique fabriquée par Patrick]</description>
+    </item>
+    <item rdf:about="http://www.atelier-rl.ch/doku.php?id=www:contact&amp;amp;rev=1308214991">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-06-16T11:03:11+01:00</dc:date>
+        <title>www:contact</title>
+        <link>http://www.atelier-rl.ch/doku.php?id=www:contact&amp;amp;rev=1308214991</link>
+        <description>Contact
+
+  Atelier R.L. 
+
+CH - 1958   St-Léonard
+
+&lt;info@atelier-rl.ch&gt;
+
+Brigitte Raboud: 079 738 54 50
+
+Patrick Leibundgut: 079 283 37 33</description>
+    </item>
+    <item rdf:about="http://www.atelier-rl.ch/doku.php?id=www:ebenisterie&amp;amp;rev=1308215005">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-06-16T11:03:25+01:00</dc:date>
+        <title>www:ebenisterie</title>
+        <link>http://www.atelier-rl.ch/doku.php?id=www:ebenisterie&amp;amp;rev=1308215005</link>
+        <description>M. Patrick LEIBUNDGUT Ebéniste
+
+                                                               
+
+Né le 18.04.49 à Besançon
+
+Création
+
+Aprés avoir travaillé pendant plus de 20 ans sur les techniques anciennes de l’ébénisterie Patrick LEIBUNDGUT crée depuis quelques années une ligne de meubles épurés.</description>
+    </item>
+    <item rdf:about="http://www.atelier-rl.ch/doku.php?id=www:expositions&amp;amp;rev=1308215008">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-06-16T11:03:28+01:00</dc:date>
+        <title>www:expositions</title>
+        <link>http://www.atelier-rl.ch/doku.php?id=www:expositions&amp;amp;rev=1308215008</link>
+        <description>[Huile 47 x 144 cm ] 
+ Année  Lieu  Galerie     1976 à 1985   France   Magasins Antiquités   Coll   1986   Genève   Carantac St-Gall   Pers    1987   Sion   Salle Ufen Bort   Pers    1989   Moudon   Galerie Pont d’Art    Pers    1989   Conches   Galerie la Primaire   Pers    1990   Vevey   Hotel Mirador   Pers   1990   Coppet   Chateau de Coppet   Coll    1991   Charmey   Galerie Antika   Coll    1991   Cartigny   Galerie Fleurs des Champs   Pers    1992   Choully   Art et Musique   Coll  …</description>
+    </item>
+    <item rdf:about="http://www.atelier-rl.ch/doku.php?id=www:meuble_peint&amp;amp;rev=1308215012">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-06-16T11:03:32+01:00</dc:date>
+        <title>www:meuble_peint</title>
+        <link>http://www.atelier-rl.ch/doku.php?id=www:meuble_peint&amp;amp;rev=1308215012</link>
+        <description></description>
+    </item>
+    <item rdf:about="http://www.atelier-rl.ch/doku.php?id=www:peinture&amp;amp;rev=1308215028">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-06-16T11:03:48+01:00</dc:date>
+        <title>www:peinture</title>
+        <link>http://www.atelier-rl.ch/doku.php?id=www:peinture&amp;amp;rev=1308215028</link>
+        <description>Mme Brigitte RABOUD-LEIBUNDGUT-Peintre Autodidacte
+
+ Née le 7 mars 1954 en Champagne de mère arlésienne et de père valaisan. Passe son enfance en Provence, Vaison la Romaine, puis Valence et Dijon. Mariée en 1974 avec Patrick LEIBUNDGUT ébéniste.</description>
+    </item>
+</rdf:RDF>

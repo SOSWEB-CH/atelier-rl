@@ -1,0 +1,14 @@
+#
+# robots.txt type pour le site dokuwiki
+# by Alain H Pernet - www.sos-web.ch
+# created january 2000
+# revised juily 2007
+#
+User-agent: *
+Disallow: /bin/
+Disallow: /conf/
+Disallow: /inc/
+Disallow: /lib/
+Disallow: /img/
+Disallow: /data/meta/
+Disallow: /data/media/

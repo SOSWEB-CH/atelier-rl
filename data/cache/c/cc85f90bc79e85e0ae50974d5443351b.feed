@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://www.atelier-rl.ch/lib/styles/feed.css" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://www.atelier-rl.ch/feed.php">
+        <title>Atelier R.L. www:peinture</title>
+        <description></description>
+        <link>http://www.atelier-rl.ch/</link>
+        <image rdf:resource="http://www.atelier-rl.ch/lib/images/favicon.ico" />
+       <dc:date>2012-01-14T09:27:11+01:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://www.atelier-rl.ch/doku.php?id=www:peinture:galerie&amp;amp;rev=1308215016"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://www.atelier-rl.ch/lib/images/favicon.ico">
+        <title>Atelier R.L.</title>
+        <link>http://www.atelier-rl.ch/</link>
+        <url>http://www.atelier-rl.ch/lib/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://www.atelier-rl.ch/doku.php?id=www:peinture:galerie&amp;amp;rev=1308215016">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-06-16T11:03:36+01:00</dc:date>
+        <title>www:peinture:galerie</title>
+        <link>http://www.atelier-rl.ch/doku.php?id=www:peinture:galerie&amp;amp;rev=1308215016</link>
+        <description>Pastels et acryliques</description>
+    </item>
+</rdf:RDF>
